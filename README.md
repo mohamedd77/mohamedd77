@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohamedd77
-- 👀 I’m cs student at ain shams university
+- 👀 I’m cs graduate from ain shams university
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to work in software field
 - 📫 my gmail:- mohamed.abdou.7790@gmail.com
